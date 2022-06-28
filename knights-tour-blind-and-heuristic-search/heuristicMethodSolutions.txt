@@ -1,0 +1,32 @@
+CMSC 162 - Machine Problem 1
+
+Chua, Mary Elizabeth
+Nisay, Deiondre Judd
+
+Part 2: Knight's Tour Using Heuristic Search (Warnsdorf's Rule)
+SOURCE CODE: Bhatt, J (2020) Knight_s_Tour.c [Source code]. https://github.com/Jwalin1/C-programs/blob/master/Algorithms/Knight_s_Tour.c
+
+INITIAL STATE: (Can start from either zero or one)
+------------------
+XX XX XX XX XX XX XX XX 
+XX XX XX XX XX XX XX XX 
+XX XX XX XX XX XX XX XX 
+XX XX XX XX XX XX XX XX 
+XX XX XX 01 XX XX XX XX 
+XX XX XX XX XX XX XX XX 
+XX XX XX XX XX XX XX XX 
+XX XX XX XX XX XX XX XX 
+
+
+FINAL STATE: (Partial solution. The final solution must show all the steps from 0/1 - 63/64)
+------------------
+06 09 04 21 52 11 40 37 
+03 22 07 10 41 38 55 12 
+08 05 20 53 62 51 36 39 
+23 02 61 42 49 54 13 56 
+44 19 48 01 60 63 50 35 
+27 24 43 64 47 32 57 14 
+18 45 26 29 16 59 34 31 
+25 28 17 46 33 30 15 58 
+
+RUNTIME:   0.0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 seconds

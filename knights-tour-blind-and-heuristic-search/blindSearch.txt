@@ -1,0 +1,33 @@
+CMSC 162 - Machine Problem 1
+
+Chua, Mary Elizabeth
+Nisay, Deiondre Judd
+
+Part 1: Knight's Tour Using Blind Search
+
+INITIAL STATE:
+------------------------
+XX XX XX XX XX XX XX XX 
+XX XX XX XX XX XX XX XX 
+XX XX XX XX XX XX XX XX 
+XX XX XX XX XX XX XX XX 
+XX XX XX 01 XX XX XX XX 
+XX XX XX XX XX XX XX XX 
+XX XX XX XX XX XX XX XX 
+XX XX XX XX XX XX XX XX 
+
+
+FINAL STATE:
+------------------------
+20 03 16 11 08 05 64 13 
+17 30 19 04 15 12 09 06 
+54 21 02 29 10 07 14 63 
+31 18 55 22 33 62 41 24 
+56 53 32 01 28 23 34 61 
+47 50 37 58 35 42 25 40 
+52 57 48 45 38 27 60 43 
+49 46 51 36 59 44 39 26 
+
+
+RUNTIME: 1 hour, 24 minutes: 15.877000 seconds
+ 
